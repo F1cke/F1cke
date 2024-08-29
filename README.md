@@ -1,10 +1,10 @@
 # Hi there, I'm [于明扬] 👋
 
 ## About Me
-I'm a passionate software developer with a strong focus on **C++** and **Linux**. I thrive on solving complex problems and building scalable applications. 
+I'm a passionate software developer with a strong focus on  **Linux**. I thrive on solving complex problems and building scalable applications. 
 
 ## My Skills
-- **Languages**: Python, JavaScript, TypeScript, Java
+- **Languages**: Python, JavaScript, TypeScript, Java， C++
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Docker, Git, CI/CD, AWS
 
