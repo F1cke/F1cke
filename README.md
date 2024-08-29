@@ -1,7 +1,7 @@
 # Hi there, I'm [于明扬] 👋
 
 ## About Me
-I'm a passionate software developer with a strong focus on **full-stack web development** and **data science**. I thrive on solving complex problems and building scalable applications. 
+I'm a passionate software developer with a strong focus on **C++** and **Linux**. I thrive on solving complex problems and building scalable applications. 
 
 ## My Skills
 - **Languages**: Python, JavaScript, TypeScript, Java
